@@ -8,7 +8,7 @@
 
 
 
-- I’m a senior Cal Poly SLO Computer Engineer, graduating June 2022. I have a passion for creation and automation, and I strive to learn new fields and industries in each of my projects.
+- I’m a senior Computer Engineering student at Cal Poly SLO, graduating in June 2022. I have a passion for creation and automation, and I strive to learn new fields and industries in each of my projects. Speaking of which, here are some of my projects!
 - GridFlow 2.0 (Java)   : https://github.com/saadmohammad122/GridFlow
 - ODIN XR (C# & Unity)  : https://github.com/saadmohammad122/ODINXR_HotHouse
 - 📫 How to reach me:
