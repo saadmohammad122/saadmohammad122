@@ -1,7 +1,7 @@
 
 
 
-- 👋 Hi, I’m Saad Mohammad, but I go by Ali. 
+- 👋 Hi, my name is Saad Mohammad, but my friends call me Ali. 
 
 
 ![alt text](https://github.com/saadmohammad122/ODINXR_HotHouse/blob/main/Pictures/20210722-CIEAccelerator-JoeJ0045.jpg?raw=true)
